@@ -1,0 +1,10 @@
+name: "opencasestudies"
+navbar:
+  title: "Open Case Studies"
+  left:
+    - text: "Case Study"
+      href: index.html
+    - text: "Github"
+      href: https://github.com/opencasestudies/ocs-bp-youth-mental-health
+    - text: "About the OCS project"
+      href: https://www.opencasestudies.org
