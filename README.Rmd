@@ -7,8 +7,8 @@ output: md_document
 # Open Case Studies: Mental Health of American Youth
 
 <!-- badges: start -->
-[![render-README](https://github.com/opencasestudies/ocs-bp-youth-mental-health/workflows/render-README/badge.svg)](https://github.com/opencasestudies/ocs-bp-youth-mental-health/actions)
-[![render-index](https://github.com/opencasestudies/ocs-bp-youth-mental-health/workflows/render-index/badge.svg)](https://github.com/opencasestudies/ocs-bp-youth-mental-health/actions)
+[![render-README](https://github.com/opencasestudies/ocs-bp-youth-mental-health-v2/workflows/render-README/badge.svg)](https://github.com/opencasestudies/ocs-bp-youth-mental-health-v2/actions)
+[![render-index](https://github.com/opencasestudies/ocs-bp-youth-mental-health-v2/workflows/render-index/badge.svg)](https://github.com/opencasestudies/ocs-bp-youth-mental-health-v2/actions)
 <!-- badges: end -->
 
 ### Important links 
